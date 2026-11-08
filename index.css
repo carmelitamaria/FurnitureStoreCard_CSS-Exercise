@@ -1,0 +1,35 @@
+button {
+  background-color: #1e3a8a;
+  color: #ffffff;
+  border-color: none;
+  font-weight: bolder;
+  font-size: medium;
+  padding-block: 12px 24 px;
+  width: 200px;
+  height: 50px;
+}
+
+.NewPrice {
+  color: rgb(15, 196, 15);
+  display: inline;
+  font-size: 25px;
+  font-weight: bold;
+}
+.OldPrice {
+  color: rgb(102, 96, 96);
+  display: inline;
+  font-size: 16px;
+}
+
+article {
+  margin: 20px;
+  margin-left: 5px;
+  margin-right: 175px;
+  padding: 2%;
+  background-color: rgb(216, 225, 234);
+  font-family: sans-serif;
+}
+
+#SiteHeader {
+  font-family: sans-serif;
+}
